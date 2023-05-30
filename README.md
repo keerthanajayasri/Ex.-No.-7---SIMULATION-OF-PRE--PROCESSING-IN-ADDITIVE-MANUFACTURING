@@ -42,11 +42,17 @@
 ![123_1](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ec8dafd7-cb7c-4a5b-936c-41e86a32a9da)
 ![123_2](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/c071a941-e5b4-4b31-af63-5f9fe08cd0fb)
 ![123_3](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ebb3a944-eeb0-45e8-9841-d58997840c54)
+###OUTPUT
 
-## Output:
+![image](https://github.com/keerthanajayasri/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/121163440/d3d47388-b572-4759-b456-407b9d26a7aa)
 
-### Name:
-### Register Number:
+![image](https://github.com/keerthanajayasri/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/121163440/eed0007c-c712-486e-97fd-1fdce36a1756)
+
+![image](https://github.com/keerthanajayasri/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/121163440/1ece3492-79ad-4b40-b4f1-a6966f5d4859)
+
+
+### Name:KEERTHANA JAYASRI SK
+### Register Number:212222110019
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
